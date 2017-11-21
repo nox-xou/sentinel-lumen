@@ -1,6 +1,6 @@
 {
-    "name": "cartalyst/sentinel-lumen",
-    "description": "Lumen 5.1 integration for the Cartalyst 2.0 package.",
+    "name": "nox-xou/sentinel-lumen",
+    "description": "Lumen 5.5 integration for the Cartalyst 2.0 package.",
     "keywords": [
         "php",
         "cartalyst",
